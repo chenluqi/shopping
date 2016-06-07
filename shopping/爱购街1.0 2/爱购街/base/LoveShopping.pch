@@ -1,0 +1,14 @@
+//
+//  LoveShopping.pch
+//  爱购街
+//
+//  Created by Jhwilliam on 16/1/28.
+//  Copyright © 2016年 01. All rights reserved.
+//
+
+#ifndef LoveShopping_pch
+#define LoveShopping_pch
+
+#import "Common.h"
+
+#endif /* LoveShopping_pch */
